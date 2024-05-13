@@ -27,15 +27,15 @@ Led and secured second position out of 12 in a marketing event with 7 team membe
 ## Projects
 ---
 - **Git Folio** (Apr 2024 - Apr 2024)<br>
-  [GitHub Page](https://mukul1107.github.io/git-folio/)
+  [Live URL](https://mukul1107.github.io/git-folio/)<br>
   Developed a web application that allows users to enter a GitHub username and view the corresponding user profile along with their repositories. Implemented using HTML, CSS, JavaScript, and GitHub API.
   
 - **Keep Track** (Dec 2023 - Dec 2023) <br>
-  [GitHub Repository](https://github.com/mukul1107/keep-track)
+  [GitHub Repository](https://github.com/mukul1107/keep-track)<br>
   Created a desktop application in C programming language for task management. Users can create, save, and manipulate tasks within a text-based file. Implemented features include task management and console display.
   
 - **NFT Preview Page** (Nov 2023 - Dec 2023)<br>
-   [Preview Page](https://mukul1107.github.io/nft-card/)
+   [Preview Page](https://mukul1107.github.io/nft-card/)<br>
    Developed a solution to the NFT preview card component challenge on Frontend Mentor. Designed and implemented responsive web components using HTML, CSS, and JavaScript.
 
 ## Skills
