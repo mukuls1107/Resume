@@ -7,7 +7,7 @@
 
 ## Education
 - **Bachelor of Computer Applications (BCA) in Computer Science**
-JECRC University, 2023 - Present
+JECRC University, 
 This comprehensive program covers various aspects of computer science, including programming languages, data structures, algorithms, and software development methodologies.
 
 - **Senior Secondary (XII) in Commerce**
