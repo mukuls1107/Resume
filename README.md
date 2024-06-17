@@ -11,11 +11,11 @@ JECRC University,
 This comprehensive program covers various aspects of computer science, including programming languages, data structures, algorithms, and software development methodologies.
 
 - **Senior Secondary (XII) in Commerce**
-Noble Kingdom Public School (RBSE board), Year of completion: 2023, Percentage: 83.00%
+Noble Kingdom Public School (RBSE board),  Percentage: 83.00%
 Studied commerce subjects alongside computer science electives, gaining a well-rounded academic background.
 
 - **Secondary (X)**
-Noble Kingdom Public School (RBSE board), Year of completion: 2021, Percentage: 90.00%
+Noble Kingdom Public School (RBSE board),  Percentage: 90.00%
 Excelled in academics, demonstrating strong foundational knowledge in mathematics and science.
 
 ## Positions of Responsibility
