@@ -47,7 +47,7 @@ Led and secured second position out of 12 in a marketing event with 7 team membe
 
 ## Work Samples
 ---
-- [Github Profile](https://github.com/mukul1107)
+- [Github Profile](https://github.com/mukuls1107)
 
 ## Additional Details
 ---
