@@ -1,54 +1,51 @@
-
 # Mukul Singh
----
-- Email: mukul.110705@gmail.com
+## SDE Intern
+
+### Contact:
 - Phone: +91 6367083748
-- Location: Jaipur, INDIA
+- Mail: mukul.110705@gmail.com
+- Github: [Github Profile]
+- Twitter: [Twitter Profile]
+- Location: India
 
-## Education
-- **Bachelor of Computer Applications (BCA) in Computer Science**
-JECRC University, 
-This comprehensive program covers various aspects of computer science, including programming languages, data structures, algorithms, and software development methodologies.
+### Professional Summary
+Adaptable student with knowledge of web application development, configure management, and database management. Aiming to leverage my abilities to fill the vacancy on your team successfully.
 
-- **Senior Secondary (XII) in Commerce**
-Noble Kingdom Public School (RBSE board),  Percentage: 83.00%
-Studied commerce subjects alongside computer science electives, gaining a well-rounded academic background.
+### Skills
+- **Programming Language:** C/C++, JavaScript, Python
+- **Frontend:** HTML, CSS, JavaScript, ReactJS, TailwindUI, MaterialUI, FontAwesome
+- **Backend:** NodeJS, ExpressJS, MongoDB, MySQL
+- **Tools:** Git/Github, Webpack, Vite, NPM, Postman, JestJS
 
-- **Secondary (X)**
-Noble Kingdom Public School (RBSE board),  Percentage: 90.00%
-Excelled in academics, demonstrating strong foundational knowledge in mathematics and science.
+### Education
+- Bachelor's Of Computer Applications, JECRC University (2023-2026)
+  - SGPA: 8.26
+- Senior Secondary (XII), Commerce (2021-2023)
+  - Score: 83%
+- Secondary Level (X), Science and Mathematics with History (2021)
+  - Score: 90%
 
-## Positions of Responsibility
----
-- **Marketing Event Leader**
-Noble Kingdom Public School
-Led and secured second position out of 12 in a marketing event with 7 team members. Demonstrated leadership, teamwork, and strategic planning skills.
+### Certification
+- Github Hactoberfest Contribution Certificate - 2023
+- Intel GenAI Certificate - 2023
 
-## Projects
----
-- **Git Folio** (Apr 2024 - Apr 2024)<br>
-  [Live URL](https://mukul1107.github.io/git-folio/)<br>
-  Developed a web application that allows users to enter a GitHub username and view the corresponding user profile along with their repositories. Implemented using HTML, CSS, JavaScript, and GitHub API.
-  
-- **Keep Track** (Dec 2023 - Dec 2023) <br>
-  [GitHub Repository](https://github.com/mukul1107/keep-track)<br>
-  Created a desktop application in C programming language for task management. Users can create, save, and manipulate tasks within a text-based file. Implemented features include task management and console display.
-  
-- **NFT Preview Page** (Nov 2023 - Dec 2023)<br>
-   [Preview Page](https://mukul1107.github.io/nft-card/)<br>
-   Developed a solution to the NFT preview card component challenge on Frontend Mentor. Designed and implemented responsive web components using HTML, CSS, and JavaScript.
+### Projects
+1. **File Sort** (July, 2024)
+   - NodeJS
+   - A simple nodejs script that automatically organizes files in a directory by sorting them into subdirectories based on their file extension. This automation helps you keep your files organized and easy to find.
 
-## Skills
----
-- **Programming Languages:** C, C++, JavaScript
-- **Web Development:** Node.js, Express.js, React, MySQL
-- **Frontend Frameworks:** Tailwind CSS, Bootstrap
-- **Tools & Technologies:** Microsoft Office, Git
+2. **GitFolio** (May-June, 2024)
+   - HTML, CSS, JavaScript, Github API
+   - GitFolio is single web page app that uses Github API to get the user data just with the username.
 
-## Work Samples
----
-- [Github Profile](https://github.com/mukuls1107)
+3. **CURLS** (October-September, 2023)
+   - ReactJS, WebSocket, JavaScript
+   - CURLS is an open source project which provides a cutting edge text-editor that effortlessly integrates the power of VSCode with the simplicity of Notepad. Crafted the UI responsively and fast preview for opening the files.
 
-## Additional Details
----
-- *Secured position in the first 10,000 Contributors and got my Pull Request merged in the HacktoberFest 2023!*
+4. **TTT**
+   - JavaScript, CSS
+   - TTT is a personal project that I've created while understanding the DOM. The complete game is created in JavaScript manipulating the DOM entirely along with the logic of finishing the game.
+
+5. **Keep Track** (December-February, 2023-2024)
+   - C, BatchFile
+   - Keep Track is a command line based application developed using pure C language. It allows users to manage their tasks by creating, saving, and manipulating them within a text-based file.
