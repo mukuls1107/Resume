@@ -30,21 +30,20 @@ Adaptable student with knowledge of web application development, configure manag
 - Intel GenAI Certificate - 2023
 
 ### Projects
-1. **[File Sort](https://github.com/mukuls1107/file-sorter)** (July, 2024)
+1. **[Developer Story](https://github.com/mukuls1107/CV-app)** (August, 2024)
+   - ReactJS, JavaScript, Vite
+   - Developer Story is a web application created using ReactJS that allows users to create their resumes just by providing some necessary information.
+2. **[File Sort](https://github.com/mukuls1107/file-sorter)** (July, 2024)
    - NodeJS
    - A simple nodejs script that automatically organizes files in a directory by sorting them into subdirectories based on their file extension. This automation helps you keep your files organized and easy to find.
 
-2. **[GitFolio](https://github.com/mukuls1107/git-folio)** (May-June, 2024)
+3. **[GitFolio](https://github.com/mukuls1107/git-folio)** (May-June, 2024)
    - HTML, CSS, JavaScript, Github API
    - GitFolio is single web page app that uses Github API to get the user data just with the username.
 
-3. **[CURLS](https://github.com/mukuls1107/Curls)** (October-September, 2023)
+4. **[CURLS](https://github.com/mukuls1107/Curls)** (October-September, 2023)
    - ReactJS, WebSocket, JavaScript
    - CURLS is an open source project which provides a cutting edge text-editor that effortlessly integrates the power of VSCode with the simplicity of Notepad. Crafted the UI responsively and fast preview for opening the files.
-
-4. **[TTT](https://github.com/mukuls1107/ttt)**
-   - JavaScript, CSS
-   - TTT is a personal project that I've created while understanding the DOM. The complete game is created in JavaScript manipulating the DOM entirely along with the logic of finishing the game.
 
 5. **[Keep Track](https://github.com/mukuls1107/keep-track)** (December-February, 2023-2024)
    - C, BatchFile
