@@ -18,11 +18,11 @@ Adaptable student with knowledge of web application development, configure manag
 - **Tools:** Git/Github, Webpack, Vite, NPM, Postman, JestJS
 
 ### Education
-- Bachelor's Of Computer Applications, JECRC University (2023-2026)
+- Bachelor's Of Computer Applications, JECRC University 
   - SGPA: 8.26
-- Senior Secondary (XII), Commerce (2021-2023)
+- Senior Secondary (XII), Commerce 
   - Score: 83%
-- Secondary Level (X), Science and Mathematics with History (2021)
+- Secondary Level (X), Science and Mathematics with History 
   - Score: 90%
 
 ### Certification
